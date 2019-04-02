@@ -3,4 +3,5 @@
   <string name="base_url">http://10.0.2.2:8080/rest/qod/</string>
   <string name="client_id">540356473228-qq0etkbnsvioe4rp6ogali1haqrahe9l.apps.googleusercontent.com</string>
   <string name="sign_in_error">Unable to log in with the provided credentials</string>
+  <string name="authorization_value_format">Bearer %s</string>
 </resources>
